@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TutorialNinja Test Suite">
+  <test name="TutorialNinja Tests">
+    <classes>
+      <class name="com.tutorialninja.Login_TN"/>
+      <class name="com.tutorialninja.Register_TN"/>
+      <class name="com.tutorialninja.SearchProduct_TN"/>
+      <class name="com.tutorialninja.AddProductCheckoutTest"/>
+    </classes>
+  </test>
+</suite>
