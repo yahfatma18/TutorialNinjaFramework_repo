@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-06T12:16:09 EDT" name="TutorialNinja Test Suite" finished-at="2025-07-06T12:17:02 EDT" duration-ms="52322">
+    <groups>
+    </groups>
+    <test started-at="2025-07-06T12:16:09 EDT" name="TutorialNinja Tests" finished-at="2025-07-06T12:17:02 EDT" duration-ms="52322">
+      <class name="com.tutorialninja.Login_TN">
+        <test-method is-config="true" signature="lanchApplication()[pri:0, instance:com.tutorialninja.Login_TN@42e99e4a]" started-at="2025-07-06T12:16:09 EDT" name="lanchApplication" finished-at="2025-07-06T12:16:19 EDT" duration-ms="10121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchApplication -->
+        <test-method signature="validLoginTest()[pri:0, instance:com.tutorialninja.Login_TN@42e99e4a]" started-at="2025-07-06T12:16:19 EDT" name="validLoginTest" finished-at="2025-07-06T12:16:21 EDT" duration-ms="1936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialninja.Login_TN@42e99e4a]" started-at="2025-07-06T12:16:21 EDT" name="tearDown" finished-at="2025-07-06T12:16:22 EDT" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialninja.Login_TN -->
+      <class name="com.tutorialninja.Register_TN">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:com.tutorialninja.Register_TN@478190fc]" started-at="2025-07-06T12:16:22 EDT" name="launchApp" finished-at="2025-07-06T12:16:28 EDT" duration-ms="6041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="registerNewUserTest()[pri:0, instance:com.tutorialninja.Register_TN@478190fc]" started-at="2025-07-06T12:16:28 EDT" name="registerNewUserTest" finished-at="2025-07-06T12:16:30 EDT" duration-ms="2613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerNewUserTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialninja.Register_TN@478190fc]" started-at="2025-07-06T12:16:30 EDT" name="tearDown" finished-at="2025-07-06T12:16:31 EDT" duration-ms="332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialninja.Register_TN -->
+      <class name="com.tutorialninja.AddProductCheckoutTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tutorialninja.AddProductCheckoutTest@3a93b025]" started-at="2025-07-06T12:16:37 EDT" name="setUp" finished-at="2025-07-06T12:16:42 EDT" duration-ms="4619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addProductAndCompleteCheckout()[pri:0, instance:com.tutorialninja.AddProductCheckoutTest@3a93b025]" started-at="2025-07-06T12:16:42 EDT" name="addProductAndCompleteCheckout" finished-at="2025-07-06T12:17:01 EDT" duration-ms="19577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductAndCompleteCheckout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialninja.AddProductCheckoutTest@3a93b025]" started-at="2025-07-06T12:17:01 EDT" name="tearDown" finished-at="2025-07-06T12:17:02 EDT" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialninja.AddProductCheckoutTest -->
+      <class name="com.tutorialninja.SearchProduct_TN">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:com.tutorialninja.SearchProduct_TN@79e2c065]" started-at="2025-07-06T12:16:31 EDT" name="launchApp" finished-at="2025-07-06T12:16:36 EDT" duration-ms="4908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="searchProductTest()[pri:0, instance:com.tutorialninja.SearchProduct_TN@79e2c065]" started-at="2025-07-06T12:16:36 EDT" name="searchProductTest" finished-at="2025-07-06T12:16:37 EDT" duration-ms="1107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialninja.SearchProduct_TN@79e2c065]" started-at="2025-07-06T12:16:37 EDT" name="tearDown" finished-at="2025-07-06T12:16:37 EDT" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialninja.SearchProduct_TN -->
+    </test> <!-- TutorialNinja Tests -->
+  </suite> <!-- TutorialNinja Test Suite -->
+</testng-results>
